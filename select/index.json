@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "enough",
+  "base_artist": "サカナクション",
+  "createdAt": "2026-02-06T21:16:40.269957Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ain't Enough Cowboy",
+      "artist": "Jason Aldean",
+      "has_synced": true,
+      "path": "select/01_Ain't_Enough_Cowboy_Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gone Enough",
+      "artist": "William Michael Morgan",
+      "has_synced": true,
+      "path": "select/02_Gone_Enough_William_Michael_Morgan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Can't Get Close Enough",
+      "artist": "Exile",
+      "has_synced": true,
+      "path": "select/03_I_Can't_Get_Close_Enough_Exile.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Can't Get Close Enough (Album Version)",
+      "artist": "Exile",
+      "has_synced": true,
+      "path": "select/04_I_Can't_Get_Close_Enough_(Album_Version)_Exile.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'm Not Strong Enough to Say No",
+      "artist": "BlackHawk",
+      "has_synced": false,
+      "path": "select/05_I'm_Not_Strong_Enough_to_Say_No_BlackHawk.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I've Seen Enough to Know",
+      "artist": "Pam Tillis",
+      "has_synced": false,
+      "path": "select/06_I've_Seen_Enough_to_Know_Pam_Tillis.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Just Close Enough",
+      "artist": "American Aquarium",
+      "has_synced": false,
+      "path": "select/07_Just_Close_Enough_American_Aquarium.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Man Enough Now",
+      "artist": "Chris Bandi",
+      "has_synced": false,
+      "path": "select/08_Man_Enough_Now_Chris_Bandi.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Man Enough Now - Radio Edit",
+      "artist": "Chris Bandi",
+      "has_synced": true,
+      "path": "select/09_Man_Enough_Now_-_Radio_Edit_Chris_Bandi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Man Enough Now (Radio Edit)",
+      "artist": "Chris Bandi",
+      "has_synced": true,
+      "path": "select/10_Man_Enough_Now_(Radio_Edit)_Chris_Bandi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Old Enough to Know Better",
+      "artist": "Wade Hayes",
+      "has_synced": true,
+      "path": "select/11_Old_Enough_to_Know_Better_Wade_Hayes.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Old Enough To Know Better (Album Version)",
+      "artist": "Wade Hayes",
+      "has_synced": true,
+      "path": "select/12_Old_Enough_To_Know_Better_(Album_Version)_Wade_Hayes.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Still Woman Enough (feat. Reba McEntire & Carrie Underwood)",
+      "artist": "Loretta Lynn feat. Reba McEntire & Carrie Underwood",
+      "has_synced": true,
+      "path": "select/13_Still_Woman_Enough_(feat._Reba_McEntire_&_Carrie_Underwood)_Loretta_Lynn_feat._Reba_McEntire_&_Carrie_Underwood.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Still Woman Enough (feat. Carrie Underwood & Reba McEntire)",
+      "artist": "Loretta Lynn",
+      "has_synced": true,
+      "path": "select/14_Still_Woman_Enough_(feat._Carrie_Underwood_&_Reba_McEntire)_Loretta_Lynn.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Strong Enough to Bend",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/15_Strong_Enough_to_Bend_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Too Much Is Not Enough",
+      "artist": "The Bellamy Brothers",
+      "has_synced": false,
+      "path": "select/16_Too_Much_Is_Not_Enough_The_Bellamy_Brothers.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Too Much Is Not Enough",
+      "artist": "The Forester Sisters",
+      "has_synced": false,
+      "path": "select/17_Too_Much_Is_Not_Enough_The_Forester_Sisters.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "enough",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_enough_サカナクション.txt"
+    }
+  ]
+}
